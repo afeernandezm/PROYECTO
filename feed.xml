@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>La Web del Futbolero</title>
+        <link>https://afeernandezm.github.io/PROYECTO/</link>
+        <description>En este sitio podemos encontrar información sobre algunos equipos de laLiga, así como kahoots para jugar con tus amigosS
+</description>
+        <language>es-ES</language>
+        <item>
+            <title>Mi Pagina</title>
+            <link>http://sitio.com/pagina.html</link>
+            <description>
+Pagina que....bla, bla..
+</description>
+        </item>
+    </channel>
+</rss>
